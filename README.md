@@ -15,18 +15,20 @@
 
 ### 👩‍💻 About Me
 
-I'm an SEO Specialist with a strong interest in improving website visibility, optimizing content for search engines, and enhancing user experience through data-driven strategies.
+I'm an SEO Specialist with experience in keyword research, content research, and SEO content writing.  
+I focus on creating optimized, well-structured content that aligns with search intent and helps websites improve visibility in search engine results.
 
-I focus on helping websites rank better, attract the right audience, and achieve sustainable organic growth.
+My work includes improving content quality, optimizing on-page elements, and supporting organic growth through data-driven SEO strategies.
 
----
 
 ### 🔍 What I Do
 
 - Keyword research & search intent analysis  
-- On-page SEO optimization  
+- On-page SEO optimization
+- Off-page SEO optimization
 - Content optimization & SEO-friendly writing  
-- Internal linking strategies  
+- Internal linking strategies
+- External linking strategies 
 - Technical SEO basics  
 - Performance tracking & analysis  
 
@@ -41,15 +43,6 @@ I focus on helping websites rank better, attract the right audience, and achieve
 - SEO tools (Ahrefs / SEMrush basics)
 
 ---
-
-### 📈 Currently
-
-- Working on SEO projects  
-- Building my SEO portfolio  
-- Improving technical SEO skills  
-
----
-
 ### 🤝 Let’s Connect
 
 If you're interested in SEO, content optimization, or growing organic traffic, feel free to reach out — I’m always open to learning and collaboration 🌱
